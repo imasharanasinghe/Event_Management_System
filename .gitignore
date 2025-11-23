@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+._*
+
+# Eclipse/IDE junk (do not commit workspace metadata)
+.metadata/
+.settings/
+bin/
+.classpath
+.project
+
+# Java/build outputs
+target/
+build/
+out/
+*.class
+*.log
+
+# Node (if any)
+node_modules/
+
+# OS/Editor
+Thumbs.db
+*.swp
+
